@@ -1,1 +1,26 @@
- 
+ .images{
+     display: flex;
+     justify-content: space-around;
+ }
+h4{
+     text-align: center;
+ }
+#menu{
+    padding-top: 30px;
+}
+#small{
+    /* display: none; */
+    font-size: x-large;
+    transform: translate(50px,-100px);
+    /* color:rgb(31,45,46); */
+}
+#medium{
+    /* display: none; */
+    font-size: xx-large;
+    transform: translate(50px,-100px);
+}
+#large{
+    /* display: none; */
+    font-size: xx-large;
+    transform: translate(50px,-100px);
+}
