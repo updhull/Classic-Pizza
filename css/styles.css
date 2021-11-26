@@ -9,18 +9,14 @@ h4{
     padding-top: 30px;
 }
 #small{
-    /* display: none; */
-    font-size: x-large;
-    transform: translate(50px,-100px);
-    /* color:rgb(31,45,46); */
+    transform: translate(130px,-100px);
+    font-size: large;
 }
 #medium{
-    /* display: none; */
-    font-size: xx-large;
-    transform: translate(50px,-100px);
+    transform: translate(550px,-100px);
+    font-size: x-large;
 }
 #large{
-    /* display: none; */
+    transform: translate(950px,-100px);
     font-size: xx-large;
-    transform: translate(50px,-100px);
 }
