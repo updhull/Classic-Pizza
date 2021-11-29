@@ -23,3 +23,18 @@ h4{
     transform: translate(950px,-100px);
     font-size: xx-large;
 }
+
+/* styling gallery */
+h4{
+    padding-top: 40px;
+}
+.galleryImg{
+    display: flex;
+    justify-content: space-around;
+}
+.span{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
+
