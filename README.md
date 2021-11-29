@@ -1,10 +1,8 @@
-# Akan_Name_Generator by Abdullahi Abdi
-This project features a generator that derives an Akan names with regard to the day of the week that a user was born and their gender.
+# Classic Pizzeria by Abdullahi Abdi
+This project features a webiste for Classic Pizzeria where they can reach out to their clients by allowing them to order online.
 
 ###  Description
-In many parts of West Africa, especially in Ghana, a person’s name is determined by the day of the week on which she/he was born.
-This name generator web application takes a user's birthday(year, month and date) and gender information, determines the day of the week on which they were born and derives an Akan name depending on their gender.
-
+At most of the times, ordering pizza has been through calls which can be abit boring as you have to wait on call as others are served, but with Classic Pizzeria website you can order your pizza at the comfort of your seat.
 ### Languages Used
 * HTML
 * CSS
