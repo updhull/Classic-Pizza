@@ -37,4 +37,16 @@ h4{
     justify-content: space-around;
     font-size: x-large;
 }
-
+/* Styling the forms */
+.forms{
+    text-align: center;
+    background-color: #E4E3E9;
+    height: 250px;
+}
+#pizza{
+    margin-left: 30px;
+    margin-top: 30px;
+    color:#B78B35 ;
+    font-weight: 600;
+    font-size: x-large;
+}
