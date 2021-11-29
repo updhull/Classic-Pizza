@@ -9,14 +9,17 @@ h4{
     padding-top: 30px;
 }
 #small{
+    display: none;
     transform: translate(130px,-100px);
     font-size: large;
 }
 #medium{
+    display: none;
     transform: translate(550px,-100px);
     font-size: x-large;
 }
 #large{
+    display: none;
     transform: translate(950px,-100px);
     font-size: xx-large;
 }
