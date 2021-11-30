@@ -4,6 +4,7 @@
  }
 h4{
      text-align: center;
+     color:#B78B35 ;
  }
 #menu{
     padding-top: 30px;
@@ -36,6 +37,7 @@ h4{
     display: flex;
     justify-content: space-around;
     font-size: x-large;
+    color:#B78B35 ;
 }
 /* Styling the forms */
 .forms{
@@ -50,5 +52,12 @@ h4{
     color:#B78B35 ;
     font-weight: 600;
     font-size: x-large;
+    text-align: center;
+}
+.contact{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+footer{
     text-align: center;
 }
